@@ -1,3 +1,5 @@
+# goksuko.github.io
+
 Hi there!
 
 I am a software engineering student at Codam Coding College, a 42 Network School in Amsterdam.
